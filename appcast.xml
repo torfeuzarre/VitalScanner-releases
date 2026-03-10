@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>VitalScanner</title>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Première version de VitalScanner.</description>
+      <enclosure
+        url="https://github.com/torfeuzarre/VitalScanner-releases/releases/download/v1.0/VitalScanner-1.0.zip"
+        sparkle:edSignature="t5bdpDkPapAbqxXE1rZNjRRwqHRveq0mRl/8brjb/3/hax+22+E5fcGCXu+CAlOrmP4Tfr/WFuZWg8YSzrLfDw=="
+        length="3679202"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
