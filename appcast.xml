@@ -10,8 +10,8 @@
       <description>Mise à jour de test.</description>
       <enclosure
         url="https://github.com/torfeuzarre/VitalScanner-releases/releases/download/v1.01/VitalScanner-1.01.zip"
-        sparkle:edSignature="doIVfLgCGk+Aax8ReLHHx0aMpLUD/EYjQcsivnYCxZkuRWs8VWZWJbAFzLgU4EMUTAHIzqPJkjy9A/M6eK5QCQ=="
-        length="3679304"
+        sparkle:edSignature="1GObH8yPwc6oqNCySAq05jHIGS+gMyMD8I8tHxPf4KB2gW9H+ta//A4ulzhST0UY00GCaRkpYgOtm82BA34cBQ=="
+        length="1687139"
         type="application/octet-stream" />
     </item>
     <item>
@@ -22,8 +22,8 @@
       <description>Première version de VitalScanner.</description>
       <enclosure
         url="https://github.com/torfeuzarre/VitalScanner-releases/releases/download/v1.0/VitalScanner-1.0.zip"
-        sparkle:edSignature="t5bdpDkPapAbqxXE1rZNjRRwqHRveq0mRl/8brjb/3/hax+22+E5fcGCXu+CAlOrmP4Tfr/WFuZWg8YSzrLfDw=="
-        length="3679202"
+        sparkle:edSignature="98Y6asqAzJqJsXrf2Fs5XiqH1Lkrx9i17GbMCrI+pZq+yWy3K3XvN3Vb5NdfSpPsUOTS8uDZGC0vZPaSkk7ECA=="
+        length="1687111"
         type="application/octet-stream" />
     </item>
   </channel>
