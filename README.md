@@ -61,6 +61,10 @@ L'application devrait également fonctionner pour les autres codes à scanner da
 
 L'application vérifie automatiquement les mises à jour. Vous pouvez aussi vérifier manuellement via **clic droit sur l'icône → Rechercher des mises à jour…**
 
+## Confidentialité
+
+Aucune donnée n'est collectée ni transmise. Tous les traitements (capture vidéo, détection de codes, frappe clavier) sont effectués en local sur votre Mac.
+
 ## Développé par
 
 Benjamin Wolff
