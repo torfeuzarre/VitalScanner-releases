@@ -27,7 +27,7 @@ Quand Doctolib vous demande de lire la carte Vitale avec une scannette :
 
 ### Remplissage automatique des vaccins
 
-Scannez le QR code d'un vaccin pour remplir automatiquement les informations :
+Scannez le code Data Matrix d'un vaccin pour remplir automatiquement les informations :
 
 <p align="center">
   <img src="images/doctolib-vaccin.png" width="400" alt="Doctolib - Scanner le code QR d'un vaccin">
