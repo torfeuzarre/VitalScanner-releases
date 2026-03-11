@@ -43,7 +43,7 @@ L'application devrait également fonctionner pour les autres codes à scanner da
 
 1. **Cliquez sur l'icône** dans la barre des menus (ou utilisez le raccourci **⌘⇧S**)
 2. **Présentez le QR code** devant la webcam
-3. **Le code est saisi automatiquement** dans le champ actif, comme avec une scannette USB
+3. **Le code est injecté automatiquement** dans le logiciel, comme avec une scannette USB
 
 ## Installation
 
