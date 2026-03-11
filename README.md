@@ -17,13 +17,25 @@
 
 ## Cas d'usage
 
+### Lecture de la carte Vitale
+
 Quand Doctolib vous demande de lire la carte Vitale avec une scannette :
 
 <p align="center">
   <img src="images/doctolib-example.png" width="400" alt="Doctolib - Lire la carte Vitale">
 </p>
 
-VitalScanner utilise la webcam de votre Mac pour scanner le QR code de l'application Carte Vitale (ApCV) et simule la frappe clavier — exactement comme une scannette USB physique.
+### Remplissage automatique des vaccins
+
+Scannez le QR code d'un vaccin pour remplir automatiquement les informations :
+
+<p align="center">
+  <img src="images/doctolib-vaccin.png" width="400" alt="Doctolib - Scanner le code QR d'un vaccin">
+</p>
+
+VitalScanner utilise la webcam de votre Mac pour scanner les QR codes et simule la frappe clavier — exactement comme une scannette USB physique.
+
+L'application devrait également fonctionner pour les autres codes à scanner dans Doctolib (mutuelles, ordonnances, etc.), bien que cela n'ait pas encore été testé.
 
 > **Note :** VitalScanner a été testé uniquement avec Doctolib. Le fonctionnement avec d'autres logiciels de santé n'est pas garanti.
 
