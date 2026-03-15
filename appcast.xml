@@ -7,7 +7,7 @@
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Suppression de l'option "Garder ouvert".</description>
+      <description>Ajout d'un sélecteur de caméra.</description>
       <enclosure
         url="https://github.com/torfeuzarre/VitalScanner-releases/releases/download/v2.0/VitalScanner-2.0.zip"
         sparkle:edSignature="VrG907R8AzWU/KN/1rO4KXIDb6F4aq4qlOngcL1cEQQP4PvAJCJLg/reUNj606PoxHgFpqUfnEwba9JD7hmZDA=="
