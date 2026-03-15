@@ -3,6 +3,18 @@
   <channel>
     <title>VitalScanner</title>
     <item>
+      <title>Version 2.0</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Suppression de l'option "Garder ouvert".</description>
+      <enclosure
+        url="https://github.com/torfeuzarre/VitalScanner-releases/releases/download/v2.0/VitalScanner-2.0.zip"
+        sparkle:edSignature="VrG907R8AzWU/KN/1rO4KXIDb6F4aq4qlOngcL1cEQQP4PvAJCJLg/reUNj606PoxHgFpqUfnEwba9JD7hmZDA=="
+        length="1708368"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.01</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.01</sparkle:shortVersionString>
