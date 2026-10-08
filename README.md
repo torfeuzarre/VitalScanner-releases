@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/torfeuzarre/VitalScanner-releases/releases/latest">Télécharger la dernière version</a>
+  <a href="https://github.com/torfeuzarre/VitalScanner-releases/releases/latest/download/Installer-VitalScanner.pkg">Télécharger la dernière version</a>
 </p>
 
 ---
@@ -47,10 +47,11 @@ L'application devrait également fonctionner pour les autres codes à scanner da
 
 ## Installation
 
-1. [Téléchargez la dernière version](https://github.com/torfeuzarre/VitalScanner-releases/releases/latest)
-2. Décompressez le `.zip`
-3. Glissez `VitalScanner.app` dans votre dossier **Applications**
-4. Au premier lancement, autorisez l'accès à la **caméra** et à l'**accessibilité** (nécessaire pour simuler la frappe clavier)
+1. [Téléchargez l'installeur `Installer-VitalScanner.pkg`](https://github.com/torfeuzarre/VitalScanner-releases/releases/latest/download/Installer-VitalScanner.pkg)
+2. Double-cliquez dessus et suivez l'installeur : VitalScanner est installé dans **Applications**, puis s'ouvre automatiquement
+3. Autorisez l'accès à la **caméra** et à l'**accessibilité** (nécessaire pour simuler la frappe clavier)
+
+> Le fichier `.zip` joint à chaque version sert uniquement aux mises à jour automatiques : inutile de le télécharger.
 
 ## Configuration requise
 
